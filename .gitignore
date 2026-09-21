@@ -1,0 +1,16 @@
+# Pycharm settings
+.idea/
+
+# Python virtual environment
+.venv/
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Extracted FBI files and large processed crime dataset
+NC_crime_data/
+NC_property_crime_2021_2025.csv
+
+
+# Python cache files
+__pycache__/
