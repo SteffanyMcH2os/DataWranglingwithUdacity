@@ -10,7 +10,7 @@
 # Extracted FBI files and large processed crime dataset
 NC_crime_data/
 NC_property_crime_2021_2025.csv
-
+NC_property_crime_2021_2025_raw.csv
 
 # Python cache files
 __pycache__/
